@@ -21,7 +21,7 @@ public class FVCalc {
 
 		
 
-		System.out.println("After " + yearsPositive + " years, $" + 
+		System.out.println("After " + yearsPositive + " years, a $" + 
 		currentValuePositive + " saved at " + rate + "% will yield $" + futureValueInt);
 
 	}
