@@ -19,7 +19,7 @@ public class Bill3 {
 				double rounded = Math.ceil(split);
 			
 		//tell the user how much each diner owes
-		System.out.println("Dear " + name1 + ", " + name2 + ", and " + name3 + ": " + "pay " + rounded + " Shekels each.");
+		System.out.println("Dear " + name3 + ", " + name2 + ", and " + name1 + ": " + "pay " + rounded + " Shekels each");
   
 	}
 }
